@@ -44,3 +44,9 @@ div {
     border: none;
     color: white;
 }
+
+.cafebutton{
+    background-color: #E8C784; /* Light Gold */
+    border: none;
+    color: black;
+}
